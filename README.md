@@ -2,7 +2,7 @@
 
 Character frequency lookup tool over 青空文庫. Results can be refined by specifying a lower/upper bound on the year of publication.
 
-Requires corpus data from [ryancahildebrandt/aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus) ([Kaggle dataset](https://www.kaggle.com/datasets/ryancahildebrandt/azbcorpus)) in `data` directory.
+Preprocessing step requires corpus data from [ryancahildebrandt/aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus) ([Kaggle dataset](https://www.kaggle.com/datasets/ryancahildebrandt/azbcorpus)) in `data` directory and automatically generates `data.db` in root directory.
 
 Usage examples:
 
